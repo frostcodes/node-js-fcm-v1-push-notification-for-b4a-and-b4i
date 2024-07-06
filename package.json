@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-fcm-push-notification-for-b4a-and-b4i",
+  "version": "1.0.0",
+  "description": "Example for sending FCM notifications using NodeJs for a B4A or B4I app.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Frost Codes ( Oluwaseyi Aderinkomi )",
+  "license": "MIT",
+  "dependencies": {
+    "firebase-admin": "^12.1.1"
+  },
+  "devDependencies": {}
+}
