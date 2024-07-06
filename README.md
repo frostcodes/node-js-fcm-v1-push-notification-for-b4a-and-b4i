@@ -16,7 +16,6 @@ Send push notifications to your B4A (Android) or B4I (iOS) app from Node.js.
 
 ## 💰 Support My Work
 
-MADE WITH ❤ by [Punchline Technologies](http://punchlinetech.com)
 
 [![Paystack](https://raw.githubusercontent.com/frostcodes/repo-images/main/paystack-channels.png)](https://paystack.com/pay/rbhzwdgozj)
 
@@ -24,8 +23,7 @@ MADE WITH ❤ by [Punchline Technologies](http://punchlinetech.com)
 **LINK**: [https://paystack.com/pay/rbhzwdgozj](https://paystack.com/pay/rbhzwdgozj)
 
   
-  
-  
+   
 
 [![Flutterwave](https://github.com/frostcodes/repo-images/blob/main/flutterwave.png?raw=true)](https://flutterwave.com/donate/xua1z1xmabji)
 
@@ -38,7 +36,9 @@ MADE WITH ❤ by [Punchline Technologies](http://punchlinetech.com)
 
 [![LinkedIn](https://github.com/frostcodes/repo-images/blob/main/linkedin-box.png?raw=true)](https://www.linkedin.com/in/seyi-aderinkomi-923b75145/)           [![Twitter](https://github.com/frostcodes/repo-images/blob/main/x-logo-black.png?raw=true)](https://twitter.com/iamfrostcodes)
 
-  
+
+  MADE WITH ❤ by [Punchline Technologies](http://punchlinetech.com)
+
 
 ## License
 
